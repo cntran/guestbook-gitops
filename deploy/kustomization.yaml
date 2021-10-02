@@ -14,7 +14,7 @@ images:
 - name: 853245909719.dkr.ecr.us-east-1.amazonaws.com/guestbook
   newTag: b12df5d8c113e8a219f1cf9466d2ea6c9dd490ae
 - name: 853245909719.dkr.ecr.us-east-1.amazonaws.com/repository-guestbook
-  newTag: 23f1e03280fa689b45bde8b052d10e8ae9e96214
+  newTag: df57121086549b41ebdefc894c752e48c2598a9d
 - name: frontend
   newName: guestbook
   newTag: 3fa38b9d2acb82a6e567c5935d1037a1339e4f1d
